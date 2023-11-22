@@ -24,6 +24,7 @@ Requirements:
 -Gnuplot for visualization (optional)
 
 Links for download:
+
 -Visual Studio Code(https://visualstudio.microsoft.com/downloads)
 
 -Gnuplot(https://www.mingw-w64.org/downloads/#mingw-builds)
