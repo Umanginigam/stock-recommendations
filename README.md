@@ -6,12 +6,17 @@ This C++ program is a simple stock recommendation system with user registration 
 Features
 
 User registration and login.
+
 Stock analysis: purchase price, current price, historical prices, average price change, and daily trading volume.
+
 Profit/loss calculation for selected stocks.
+
 Average daily trading volume and net trading volume calculation.
+
 Visualization of profit margins using Gnuplot.
 
 Requirements
+
 C++ compiler (e.g., MinGW for Windows, g++ for Unix)
 
 Visual Studio Code (optional)
